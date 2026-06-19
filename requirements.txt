@@ -1,0 +1,6 @@
+customtkinter
+pygame
+imageio-ffmpeg
+soundfile
+df-engine
+pedalboard
