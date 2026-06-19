@@ -52,6 +52,9 @@ python app.py
 ## Built With
 
 -CustomTkinter - Modern GUI.
+
 -DeepFilterNet - AI-powered noise and echo suppression.
+
 -Pedalboard (by Spotify) - Studio-grade audio compression, EQ, and limiting.
+
 -FFmpeg - Audio formatting and normalization.
