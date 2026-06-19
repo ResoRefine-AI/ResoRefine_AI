@@ -5,7 +5,7 @@ ResoRefine Pro is a free AI noise removing and audio enhancing tool built for po
 
 ## Key Features
 * **Free AI Enhancer:** Zero subscriptions. Get unlimited, uncompressed WAV file exports.
-* **100% Private & Offline:** Your audio never goes to the cloud. It processes entirely locally via our AI engine.
+* **100% Private & Offline:** Your audio never goes to the cloud. It processes entirely locally via AI engine.
 * **Remove Noise & Echo:** Instantly clean up mic hiss, fan noise, and room echo using deep-learning suppression.
 * **Studio Desk Control:** Dial in "Broadcast Warmth" (Bass) and "Vocal Clarity" (Treble) for a rich, professional podcast sound.
 * **Auto-Leveling:** Built-in studio compression ensures perfectly balanced, clear audio for YouTube, Spotify, and TikTok.
